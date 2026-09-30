@@ -1,0 +1,4 @@
+astapi
+uvicorn
+google-generativeai
+python-dotenv
