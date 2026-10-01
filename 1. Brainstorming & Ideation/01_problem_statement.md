@@ -1,7 +1,9 @@
-# Problem Statement
+Students and young adults struggle to manage pocket money and daily expenses.
+There is no simple AI tool that tracks spending, gives saving advice, and predicts future expenses in local language.
 
-Students and users often need quick help with learning, information searching, simple tasks, and everyday questions. Traditional applications may require users to switch between multiple tools to get the required information.
-
-Pocket Smart AI is proposed as an AI-powered smart assistant that provides a simple and user-friendly platform for interacting with artificial intelligence.
-
-The system aims to make AI assistance easily accessible through a single application and reduce the complexity of using different tools for different tasks.
+Proposed Solution
+PocketSmart AI - A web app that:
+- Tracks daily expenses/income
+- Gives AI saving tips using Gemini AI
+- Shows charts and history
+- Works without API key (fallback engine)
