@@ -1,0 +1,10 @@
+Problem Statement
+Students and young adults struggle to manage pocket money and daily expenses.
+There is no simple AI tool that tracks spending, gives saving advice, and predicts future expenses in local language.
+
+Proposed Solution
+PocketSmart AI - A web app that:
+- Tracks daily expenses/income
+- Gives AI saving tips using Gemini AI
+- Shows charts and history
+- Works without API key (fallback engine)
